@@ -1,12 +1,43 @@
-- 👋 Hi, I’m @dubeyrudra-1808
-- 👀 I’m interested in Coding and Open Source Contributions 
-- 🌱 I’m currently learning React JS.
-- 💞️ I’m looking to collaborate on various open source opportunities on python , C++ , HTML , CSS and Javascript 
-- 📫 Email me:- dubeyrudra63@gmail.com 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love mathematics and literature 
+# Hi there, I'm Rudra 👋
 
-<!---
-dubeyrudra-1808/dubeyrudra-1808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+I'm a Python developer passionate about **problem solving** and **data structures & algorithms (DSA)**. In this era of **NLP, Deep Learning, Computer Vision, and Machine Learning**, I love exploring cutting-edge technologies and building impactful AI projects end-to-end.
+
+- 🔥 Skilled in Python and hands-on with AI frameworks like **PyTorch** and **TensorFlow**  
+- 🤖 Building and experimenting with models in **NLP (BERT, Transformers)**, **CV (CNNs, Object Detection)**, and **Generative AI**  
+- 🧩 Strong problem solver — actively practicing **Leetcode and Codeforces** and other algorithm challenges  
+- 🚀 Eager to contribute to open source and collaborate on exciting AI projects  
+- 🎯 Currently focused on mastering end-to-end AI pipelines — from data preprocessing to model deployment
+
+---
+
+## Skills & Tools
+
+| Programming | Python |  
+| --- | --- |  
+| Deep Learning Frameworks | PyTorch, TensorFlow |  
+| NLP | Transformers, BERT, GPT |  
+| Computer Vision | CNNs, OpenCV, Object Detection |  
+| Data Science | Pandas, NumPy, Matplotlib |  
+| Problem Solving | Data Structures, Algorithms, NeetCode 150 |  
+| Others | Git, Docker, Jupyter |  
+
+---
+
+
+## Let's Connect
+
+- 📫 Email: [dubeyrudra63@gmail.com]  
+- 🌐 LinkedIn: [https://tinyurl.com/rudra-dubey] 
+
+---
+
+⭐️ If you like my work, feel free to star my repositories!
+
+---
+
+*“Learning never exhausts the mind.” – Leonardo da Vinci*
+
+---
+
