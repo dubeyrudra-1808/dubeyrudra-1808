@@ -20,7 +20,7 @@ I'm a Python developer passionate about **problem solving** and **data structure
 | NLP | Transformers, BERT, GPT |  
 | Computer Vision | CNNs, OpenCV, Object Detection |  
 | Data Science | Pandas, NumPy, Matplotlib |  
-| Problem Solving | Data Structures, Algorithms, NeetCode 150 |  
+| Problem Solving | Data Structures, Algorithms, Competitive Programing |  
 | Others | Git, Docker, Jupyter |  
 
 ---
